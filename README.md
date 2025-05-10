@@ -6,7 +6,7 @@ This web application was built using **Streamlit** to perform sentiment analysis
 ![sampal news](https://github.com/user-attachments/assets/88ca7ef7-4580-4264-b143-87a99e4ba3bb)
 
 
-## Features
+## Features   
 
 - Simple UI to input a tweet for sentiment analysis.
 - Pre-trained model that classifies tweets into one of three categories: **Positive**, **Neutral**, or **Negative**.
