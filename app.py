@@ -1,5 +1,5 @@
 import re
-import pickle  
+import pickle        
 import streamlit as st
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
